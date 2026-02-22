@@ -53,6 +53,7 @@ Through this project, I practiced:
 ---
 ##OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdf6c47a-56bc-4b38-9486-d651ce3c9ade" />
 
 
 ⭐ Feel free to explore and improve this project!
